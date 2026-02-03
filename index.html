@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AI Study Planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>📘 AI Study Planner</h1>
+  <p class="subtitle">Plan your studies smartly & stress-free</p>
+
+  <input type="text" id="subject" placeholder="Enter subject name">
+  <input type="date" id="date">
+
+  <button onclick="addPlan()">➕ Add to Plan</button>
+
+  <h3 id="progress">Progress: 0 / 0 Completed</h3>
+
+  <div id="plan">
+    <p class="empty">No subjects added yet 📚</p>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
