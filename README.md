@@ -28,7 +28,7 @@ A colorful and simple AI Study Planner to help students plan subjects, track pro
 ---
 
 ## 📸 Screenshot
-(Add screenshot here)
+![AI Study Planner](Screenshot 2026-02-03 223409.png)
 
 ---
 
